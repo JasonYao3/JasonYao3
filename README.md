@@ -2,7 +2,7 @@
 
 Thanks to Jaemin for showing me this cool Github hidden feature (https://github.com/importdata/importdata/blob/master/README.md).
 
-Linkedin: <a href="https://www.linkedin.com/in/jason-yao-5b6181187//">
+Linkedin:  (https://www.linkedin.com/in/jason-yao-5b6181187)
 <!--
 **JasonYao3/JasonYao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
