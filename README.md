@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my Github Profile 👋
 
-# Connect me on: 
+## Connect me on: 
 
 Linkedin:  (https://www.linkedin.com/in/jason-yao-5b6181187)
 
