@@ -1,10 +1,13 @@
 ### Hi there! Welcome to Jason Yao's Github Profile 👋
 
+## Projects:
+
+- 120-years-of-Olympic-history : https://github.com/JasonYao3/120-years-of-Olympic-history
+- Goodreads Book Data Analysis : https://github.com/JasonYao3/Goodreads_books
+
 ## Connect me on: 
 
 Linkedin:  (https://www.linkedin.com/in/jason-yao-5b6181187)
-
-Github: (https://github.com/JasonYao3/JasonYao3)
 
 Thanks to Jaemin for showing me this cool Github hidden feature (https://github.com/importdata/importdata/blob/master/README.md).
 
