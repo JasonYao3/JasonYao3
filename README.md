@@ -10,7 +10,7 @@
 
 ## Connect me on: 
 
-Linkedin:  (https://www.linkedin.com/in/jason-yao-5b6181187)
+Linkedin:  (https://www.linkedin.com/in/jasonyao-jy)
 
 Thanks to Jaemin for showing me this cool Github hidden feature (https://github.com/importdata/importdata/blob/master/README.md).
 
