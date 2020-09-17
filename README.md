@@ -2,8 +2,9 @@
 
 ## Projects:
 
-- 120-years-of-Olympic-history : https://github.com/JasonYao3/120-years-of-Olympic-history
-- Goodreads Book Data Analysis : https://github.com/JasonYao3/Goodreads_books
+[Olympic history](https://github.com/JasonYao3/120-years-of-Olympic-history)
+[Goodreads book](https://github.com/JasonYao3/Goodreads_books)
+[Tableau visualization](https://github.com/JasonYao3/Tableau-Visualization)
 
 ## Currently working:
 - 60k Stack Overflow Questions with Quality Rating using Python for exploratory data analysis: https://github.com/JasonYao3/60k_Stack_Overflow_Questions_proj
