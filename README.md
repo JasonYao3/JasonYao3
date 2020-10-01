@@ -14,7 +14,7 @@
 
 [Linkedin](https://www.linkedin.com/in/jasonyao-jy)
 
-Thanks to Jaemin for showing me this cool Github hidden feature (https://github.com/importdata/importdata/blob/master/README.md).
+Thanks to [Jaemin](https://github.com/importdata/importdata/blob/master/README.md) for showing me this cool Github hidden feature. 
 
 <!--
 **JasonYao3/JasonYao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
