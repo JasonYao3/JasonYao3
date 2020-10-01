@@ -8,7 +8,7 @@
 
 ## 🔭 Currently working :
 - [TTC transit delay](https://github.com/JasonYao3/TTC_transit_delay_proj)
-- [60k Stack Overflow Questions with Quality Rating using Python for exploratory data analysis](https://github.com/JasonYao3/60k_Stack_Overflow_Questions_proj)
+<!--- - [60k Stack Overflow Questions with Quality Rating using Python for exploratory data analysis](https://github.com/JasonYao3/60k_Stack_Overflow_Questions_proj) --->
 
 ## 📫 Connect me on : 
 
