@@ -1,6 +1,6 @@
 ### Hi there! Welcome to Jason Yao's Github Profile 👋
 
-## Projects:
+## 🌱 Projects:
 
 * [Olympic history](https://github.com/JasonYao3/120-years-of-Olympic-history)
 * [Goodreads book](https://github.com/JasonYao3/Goodreads_books)
