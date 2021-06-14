@@ -3,7 +3,7 @@
 ## 🌱 Projects:
 
 * [Tableau Public Profile (60 Visualizations)](https://public.tableau.com/profile/jason.yao#!/)
-* [FitBit Fitness Tracker (SQL Server, Tableau Dashboard)](https://github.com/JasonYao3/FitBit-Fitness-Tracker-Proj)
+* [Fitbit Fitness Tracker (SQL Server, Tableau Dashboard)](https://github.com/JasonYao3/FitBit-Fitness-Tracker-Proj)
 * [TTC transit delay (Python)](https://github.com/JasonYao3/TTC_transit_delay_proj)
 * [Olympic history (MySQL, Tableau Dashboard)](https://github.com/JasonYao3/120-years-of-Olympic-history)
 * [Goodreads book (MySQL, Power Bi)](https://github.com/JasonYao3/Goodreads_books)
