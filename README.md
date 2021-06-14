@@ -2,13 +2,12 @@
 
 ## 🌱 Projects:
 
+* [Tableau Public Profile](https://public.tableau.com/profile/jason.yao#!/)
+* [FitBit Fitness Tracker](https://github.com/JasonYao3/FitBit-Fitness-Tracker-Proj)
+* [TTC transit delay](https://github.com/JasonYao3/TTC_transit_delay_proj)
+
 * [Olympic history](https://github.com/JasonYao3/120-years-of-Olympic-history)
 * [Goodreads book](https://github.com/JasonYao3/Goodreads_books)
-* [Tableau visualization](https://github.com/JasonYao3/Tableau-Visualization)
-
-## 🔭 Currently working :
-- [TTC transit delay](https://github.com/JasonYao3/TTC_transit_delay_proj)
-<!--- - [60k Stack Overflow Questions with Quality Rating using Python for exploratory data analysis](https://github.com/JasonYao3/60k_Stack_Overflow_Questions_proj) --->
 
 ## 📫 Connect me on : 
 
